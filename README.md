@@ -1,4 +1,4 @@
-# Web Development Project 2 - Chemistry Flashcard Quiz
+![walkthrough_2](https://github.com/Mosmoove/Flashcards_part1/assets/115383064/e94858dc-7877-455f-8659-7f1abf5826e0)# Web Development Project 2 - Chemistry Flashcard Quiz
 
 Submitted by: Mohamed
 
@@ -12,15 +12,15 @@ The following **required** functionality is completed:
 
 - [X] **The title of the card set and some information about it, such as a short description and the total number of cards are displayed**
 - [ ] **A single card at a time is displayed, only showing one of the components of the information pair**
-- [ ] **A list of card pairs is created**
+- [X] **A list of card pairs is created**
 - [ ] **Clicking on the card shows the corresponding component of the information pair**
 - [ ] **Clicking the next button displays a random new card**
 
 The following **optional** features are implemented:
 
 - [ ] Cards contain images in addition to or in place of text
-- [ ] Cards have different visual styles such as color based on their category
-  - [ ] *visual style implemented*
+- [X] Cards have different visual styles such as color based on their category
+  - [X] *visual style implemented*
 
 The following **additional** features are implemented:
 
@@ -30,7 +30,8 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://getkap.co/walkthrough_2.gif'
+ title='Video Walkthrough' width='2px' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
