@@ -4,7 +4,7 @@ Submitted by: Mohamed
 
 This web app: A web app that allows you to test your knowledge of the basic concepts in chemistry.
 
-Time spent: **X** hours spent in total
+Time spent: 12 hours spent in total
 
 ## Required Features
 
